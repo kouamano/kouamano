@@ -1,7 +1,6 @@
 # 天野晃
 ## Identity
 <br>[ORCID](https://orcid.org/0000-0002-8079-4941)
-<br>[Japanese researcher ID](https://researchmap.jp/read0198236)
 ## Publications
 <br>[List](https://github.com/kouamano/publish/wiki)
 <br>[J-GLOBAL](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200901038805904190)
